@@ -124,9 +124,7 @@ Users can save multiple robotic arm positions and replay them automatically eith
 
 ### Graphical User Interface
 
-<p align="center">
-  <img src="images/GUI-connected.png" width="700">
-</p>
+![GUI-connected](docs/img/GUI-connected.png)
 
 ### Demonstration
 
